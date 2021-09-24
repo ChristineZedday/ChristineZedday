@@ -1,5 +1,6 @@
 <h2>Bonjour! Je suis Christine Zedday, développeuse PHP Laravel ou Symfony!</h2>
-mail: chrizedday@free.fr
+mail: chrizedday@free.fr<br/>
+site: chrizedday.free.fr
 
 <!---
 ChristineZedday/ChristineZedday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
