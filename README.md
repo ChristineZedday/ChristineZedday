@@ -1,6 +1,6 @@
 <h2>Bonjour! Je suis Christine Zedday, développeuse PHP Laravel ou Symfony!</h2>
 mail: chrizedday@free.fr<br/>
-site: chrizedday.free.fr
+site: http://chrizedday.free.fr
 
 <!---
 ChristineZedday/ChristineZedday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Former &agrave; l'utilisation d'une application ou d'un outil <br/>
 Faire le lien entre l'&eacute;quipe graphiste et les d&eacute;veloppeurs.<br/>
 Concevoir un site web ou un programme et le r&eacute;aliser<br/>
 R&eacute;diger une documentation ou des sp&eacute;cifications, participer &agrave; l'&eacute;laboration du cahier des charges</p></section><section><h2>Exp&eacute;riences professionnelles</h2><p>
-2003-2019 Conceptrice-développeuse d'un site web sur la g&eacute;n&eacute;tique des chevaux et d'une application de simulateur d'&eacute;levage<br/>
+2003-2021 Projets personnels et travail en autodidacte: Conceptrice-développeuse d'un site web sur la g&eacute;n&eacute;tique, d'un mini CMS pour le gérer proprement en local et d'une application de simulateur d'&eacute;levage de chevaux.<br/>
 2002 <B>D&eacute;veloppeuse Web (débogage servlets JSP)</B> pour Editronics-Education<br/>
 2001 <B>Responsable informatique</B> (Delphi 3, SQL Server, SQL Anywhere) chez Annuaire Phone Edition<br/>
 2001 <B>Analyste-programmeuse</B> (r&eacute;tro-ing&eacute;nierie pour migration pascal -> cobol) pour AXA<br/>
